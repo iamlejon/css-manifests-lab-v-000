@@ -16,4 +16,5 @@
  *= require blogs
  *= require_self
  *= require hidden_styles
+ *= require pages
  */
