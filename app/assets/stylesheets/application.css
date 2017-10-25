@@ -15,4 +15,5 @@
  *= require jquery-addon
  *= require blogs
  *= require_self
+ *= require hidden_styles
  */
